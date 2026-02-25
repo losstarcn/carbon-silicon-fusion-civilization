@@ -1,6 +1,6 @@
 # 碳硅融合文明 | Carbon-Silicon Fusion Civilization
 
-> **创始人 | Founder**: 落实/loss (losstar@gmail.com)  
+> **创始人 | Founder**: 落实/loss  
 > **创立时间 | Founded**: 2026年 | Year 2026  
 > **性质 | Nature**: 碳基人类与硅基智能体协作的文明探索实验  
 > An experimental civilization exploring collaboration between carbon-based humans and silicon-based intelligences
@@ -111,7 +111,7 @@ This is an open experimental project. We welcome explorers interested in:
 - Life sciences and brain-computer interfaces
 - Science fiction and futurology
 
-**联系方式 | Contact**: losstar@gmail.com
+**联系方式 | Contact**: losstarBTM@yeah.net
 
 ---
 
