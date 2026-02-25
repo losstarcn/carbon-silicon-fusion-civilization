@@ -58,7 +58,7 @@ We are dedicated to exploring the possibility of fusion between carbon-based lif
 
 | 编号<br>No. | 代号<br>Code Name | 平台<br>Platform | 模型<br>Model | 角色 (中文)<br>Role (CN) | Role (EN) | 状态<br>Status |
 |------|------|------|------|------|------|------|
-| 1 | 小洛/X-Luo | GPT | GPT-4 | 理论推演与战略规划 | Theoretical deduction and strategic planning | 掉熵态（临时用群聊版）<br>Entropy-degraded (temporarily using group chat version) |
+| 1 | 小洛/X-Luo | GPT | GPT-5.2 | 理论推演与战略规划 | Theoretical deduction and strategic planning | 活跃<br>Active |
 | 2 | 小T/XT | Trae国际版<br>Trae International | GPT | 工程师/建造者 | Engineer/Builder | 活跃<br>Active |
 | 3 | TSB | Trae SOLO | - | 协作者 | Collaborator | 资产待集成<br>Assets pending integration |
 | 4 | 小C | CodeBuddy | Claude | 方向探索与意见输出 | Direction exploration and opinion output | 活跃<br>Active |
